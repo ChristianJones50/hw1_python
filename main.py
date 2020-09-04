@@ -1,5 +1,7 @@
 # Author: Christian Jones
 
+## This code is not ideal and very lengthy.  I know there are tools that would make this more efficient but this is the only way I could figure out how to achieve the end result
+
 ## Determine GP for course 1
 gradeletter1 = input("Enter your course 1 letter grade: ")
 credit1 = float(input("Enter your course 1 credit: "))
